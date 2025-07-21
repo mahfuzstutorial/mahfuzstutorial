@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahfuz's Tutorial(Mahfuzur Rahman Shakib)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Co-founder & Chief Operating Officer at Mahfuz's Tutorial</h4>
 
 <div align="center">
 
@@ -16,15 +16,15 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/mahfuzstutorial](https://github.com/harun181)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **mahfuzu.mrs2007@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[https://lnk.bio/mahfuzstutorial](https://lnk.bio/mahfuzstutorial)
 
 <h3 align="left">Connect with me:</h3>
 
