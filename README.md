@@ -1,4 +1,4 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am harun181](https://github.com/mahfuzstutorial/mahfuzstutorial/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Mahfuz's Tutorial(Mahfuzur Rahman Shakib)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=mahfuzstutorial&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
