@@ -12,7 +12,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Mahfuz's Tutorial](https://www.mahfuzstutorial.com/)
+- 🔭 I’m currently working on [Mahfuz's Tutorial](https://www.mahfuzstutorial.blogspot.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
